@@ -86,3 +86,107 @@ Workflow d'Analyse
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 ```
+
+
+
+### Résultats Principaux
+Structure de Corrélation Identifiée
+Groupe cognitif abstrait : CUB-PUZ-CAL (corrélations 0.73-0.92)
+
+Groupe verbal : COM-VOC (corrélation 0.78)
+
+Variable mémoire isolée : MEM (corrélations négatives)
+
+Variance Expliquée Prédite
+Composante	Variance	Interprétation
+PC1	45-55%	Opposition cognition vs mémoire
+PC2	20-25%	Compétences verbales
+PC3	10-15%	Variance résiduelle
+🎨 Visualisations Générées
+1. Scree Plot
+Variance expliquée par composante
+
+Sélection du nombre optimal de composantes
+
+2. Cercle des Corrélations
+Projection des variables dans le plan factoriel
+
+Visualisation des contributions
+
+3. Projection des Individus
+Classification des profils cognitifs
+
+
+Données simulées
+
+Ratio observations/variables faible (15/6 = 2.5)
+
+Précautions d'Interprétation
+Validation croisée recommandée
+
+Prudence dans la généralisation
+
+Considération des intervalles de confiance
+
+### 📚 Applications Pratiques
+En Psychométrie
+Identification de profils cognitifs
+
+Économie de testing
+
+Construction d'échelles composites
+
+En Recherche
+Validation de construits théoriques
+
+Détection d'outliers
+
+Comparaison de groupes
+
+🔮 Perspectives
+Améliorations Possibles
+Application sur échantillon plus large
+
+Validation avec données réelles
+
+Comparaison avec analyse factorielle confirmatoire
+
+Étude longitudinale des profils
+
+Développements Futurs
+Interface interactive de visualisation
+
+Application web de diagnostic
+
+Base de données normative
+
+### Auteur
+Analyse de Données Psychométriques
+*Projet académique - Avril 2025*
+
+📄 Licence
+Ce projet est destiné à un usage éducatif et de recherche.
+
+🤝 Contribution
+Les contributions sont les bienvenues ! N'hésitez pas à :
+
+Fork le projet
+
+Créer une branche feature (git checkout -b feature/AmazingFeature)
+
+Commit les changements (git commit -m 'Add AmazingFeature')
+
+Push sur la branche (git push origin feature/AmazingFeature)
+
+Ouvrir une Pull Request
+
+📞 Contact
+Pour toute question concernant ce projet :
+
+📧 Email : benchetioui.yh@gmail.com
+
+💼 LinkedIn : http://linkedin.com/in/youcef-haroune-benchetioui-950718368
+
+🐙 GitHub : @404gitcommitme
+
+⭐ N'oubliez pas de donner une étoile au projet si vous le trouvez utile !
